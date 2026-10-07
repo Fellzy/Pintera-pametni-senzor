@@ -33,3 +33,14 @@ Otvorite `variants/pogreska-prag/index.html`. Ona namjerno koristi prag 35 umjes
 ![Kontekst aplikacije](docs/slike/sustav.png)
 
 U ovoj vježbi veličina simulacije služi učenju alata. Složenost godišnjeg projekta dogovara se zasebno.
+
+
+
+
+**Datum:** 7.10.2026.
+## Informacije o autoru
+
+* **Ime i prezime:** Filip Pintera
+* **Razred:** 2.a
+* **Predmet:** Mikro projekt iz računarstva
+* **Repozitorij:** Pintera-pametni-senzor
